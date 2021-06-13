@@ -1,12 +1,9 @@
 {t:The Final Countdown}
 {artist:Europe}
-{level:Easy}
+{level:Medium}
 {youtube:9jK-NcRmVcw}
 {spotify:3MrRksHupTVEQ7YbA0FsZK}
 {new:}
-
-to do:
-* ending??
 
 
 [intro]
@@ -19,12 +16,13 @@ to do:
 
 [Em] We’re leaving [Em] together
 [Em] But still it’s [Am] farewell
-[Em] And maybe we’ll [Em]come back
-[Em//] To  [D//]Earth... who can  [G]tell?
-[C] I guess there is  [D]no one to blame
-[G//] We’re  [D//]leaving  [Em//]ground  [D//] (leaving ground)
-[C] Will things ever  [Bm]be the same 
-A [D]gain? [stop]
+[Em] And maybe we’ll [Em] come back
+[Em//] To  [D//]Earth... who can  [G] tell?
+[C] I guess there is  [D] no one to blame
+[G//] We’re  [D//] leaving  [Em//] ground  [D//] 
+<span style="color:gray">(leaving [C] ground)</span>
+... Will things ever  [Bm] be the same 
+A[D]gain? [stop]
 
 It’s the final  [Em] countdown  [C] 
 [Am]  [D]
@@ -32,14 +30,16 @@ The final  [Em] countdown  [C]
 [Am]  [D]
 [Em]ooooo
 
-[Em] We’re heading for [Em] Venus  (Venus)
+[Em] We’re heading for [Em] Venus <span style="color:gray"> (Venus)</span>
 [Em] And still we stand  [Am]tall
 [Em] Cause maybe they’ve [Em] seen us
 [Em//] And  [D//]welcome us  [G]all, yeah
 [C] With so many  [D]light years to go
-[G//] And  [D//]things to be  [Em//]found  [D//] (to be found)
-[C] I’m sure we  [Bm]all miss her 
-[D]So-o-o [stop]
+[G//] And  [D//]things to be  [Em//]found  [D//] 
+<span style="color:gray">(to be [C] found)</span>
+... I’m sure we  [Bm]all miss her 
+So-[D]-o [stop]
+
 It’s the final  [Em] countdown  [C] 
 [Am]  [D]
 The final  [Em] countdown  [C] 
@@ -48,18 +48,17 @@ The final  [Em] countdown  [C]
 [B7]ooooo
 
 <!--
-(solo) might be fingerpicked like in under pressure but it would be too slow/long/boring
+(solo) might be fingerpicked like in under pressure but it would be too slow/long/boring, guys in London also cut that
 Am  G  C  F  Dm  G  Am  Em
 Am  G  C  F  Dm  G  Am  B-->
-
 [Em/]  [C/]   [Am/]  [D/]
 [Em/]  [C/]   [Am/]  [D/]
-The final [Em/]count[D/]down...  [G/]  [C/]  [B]Oh-oh 
-
+The final [Em/]count[D/]down...  [G/]  [C/]  
+[B7] Oh-oh 
 It’s the final  [Em]countdown  [C] 
 [Am]  [D]
 The final  [Em]countdown  [C] 
 [Am]  [D]
-[Em//]  [D//]  [G//]  [C//] <!-- hereone more time final count down-->
-[B7]ooo?
+The final [Em//]  count[D//]down...  [G//]  [C//] 
+[B7] ooooo
 [Em/]
